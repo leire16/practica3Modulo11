@@ -1,4 +1,4 @@
-# Se ejecuta cuando hay un push a la rama master, o a cualquier rama que empiece por feature o hotfix
+# Se ejecuta cuando hay un push a la rama master, o a cualquier rama que empiece por feature o hotfix como (feature-add-js-support)
 on:
   push:
     branches:
